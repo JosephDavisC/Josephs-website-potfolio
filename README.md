@@ -13,4 +13,4 @@ Detailed project pages that showcase my work and skills
 Navigation menu with links to different pages of the website
 Contact form for visitors to get in touch with me
 About Me
-My name is Joseph and I am a web developer based in Indonesia. I created this website portfolio to showcase my skills and to provide a platform for potential employers or collaborators to learn more about my work.
+My name is Joseph Davis Chamdani and I am a web developer & Game Devloper based in Indonesia. I created this website portfolio to showcase my skills and to provide a platform for potential employers or collaborators to learn more about my work.
